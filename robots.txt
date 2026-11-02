@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kasaco12.github.io/kasaco-money-transfer-website/sitemap.xml
