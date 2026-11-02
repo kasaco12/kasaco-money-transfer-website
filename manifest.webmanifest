@@ -1,0 +1,19 @@
+{
+  "name": "KASACO MONEY TRANSFER — Demo",
+  "short_name": "KASACO Demo",
+  "description": "Development preview of KASACO Money Transfer. No real payments or transfers.",
+  "id": "/kasaco-money-transfer-website/",
+  "start_url": "/kasaco-money-transfer-website/",
+  "scope": "/kasaco-money-transfer-website/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#174899",
+  "icons": [
+    {
+      "src": "assets/mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
