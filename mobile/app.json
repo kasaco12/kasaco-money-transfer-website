@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "KASACO Money Transfer Demo",
+    "slug": "kasaco-money-transfer-demo",
+    "scheme": "kasacodemo",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.kasaco.moneytransfer.demo"
+    },
+    "android": {
+      "package": "com.kasaco.moneytransfer.demo"
+    },
+    "extra": {
+      "eas": {}
+    }
+  }
+}
